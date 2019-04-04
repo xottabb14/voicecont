@@ -7,3 +7,15 @@
 * Озвучивание событий
 * Управление окнами посредством автоматического нажатия горячих клавиш
 * Набор текста голосом
+* Управление медиаплеером
+
+##### Требования:
+* Наличие Python3 на PC
+* Библиотеки: 
+'''
+pip install SpeechRecognition
+pip install pywin32
+pip install PyAutoGUI
+pip install pywinauto
+'''
+
