@@ -1,0 +1,6 @@
+aimpon = "D:\distr\AIMP\AIMP.exe"
+aimpoff = "taskkill /f /im AIMP.exe"
+notepadon = "notepad.exe"
+notepadoff = "taskkill /f /im notepad.exe"
+browseron = r"C:\Users\eduar\AppData\Local\Yandex\YandexBrowser\Application\browser.exe"
+browseroff = "taskkill /f /im browser.exe"
