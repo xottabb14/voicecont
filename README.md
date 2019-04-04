@@ -12,10 +12,10 @@
 ##### Требования:
 * Наличие Python3 на PC
 * Библиотеки: 
-'''
-pip install SpeechRecognition
+
+**pip install SpeechRecognition**
 pip install pywin32
 pip install PyAutoGUI
 pip install pywinauto
-'''
+
 
