@@ -14,8 +14,8 @@
 * Библиотеки: 
 
 **pip install SpeechRecognition**
-pip install pywin32
-pip install PyAutoGUI
-pip install pywinauto
+**pip install pywin32**
+**pip install PyAutoGUI**
+**pip install pywinauto**
 
 
