@@ -1,4 +1,4 @@
-aimpon = "D:\distr\AIMP\AIMP.exe"
+aimpon = "С:\Program Files\AIMP\AIMP.exe"
 aimpoff = "taskkill /f /im AIMP.exe"
 notepadon = "notepad.exe"
 notepadoff = "taskkill /f /im notepad.exe"
