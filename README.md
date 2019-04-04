@@ -13,10 +13,10 @@
 * Наличие Python3 на PC
 * Наличие микрофона
 Библиотеки: 
- * **pip install SpeechRecognition**
- * **pip install pywin32**
- * **pip install PyAutoGUI**
- * **pip install pywinauto**
+* **pip install SpeechRecognition**
+* **pip install pywin32**
+* **pip install PyAutoGUI**
+* **pip install pywinauto**
 
 Запуск производится с помощью bat-файла: **voice.bat**
 
@@ -30,5 +30,5 @@
 
 ###### Полный список команд можно найти в комментариях кода.
 
-##### P.S. В файле **sinonims.py** можно задать синонимы к открываемым программам. В файле **pathscmd.py** пути к ним. Файл **config.py** содержит синонимы к командам.
+##### P.S. В файле ***sinonims.py*** можно задать синонимы к открываемым программам. В файле ***pathscmd.py*** пути к ним. Файл ***config.py*** содержит синонимы к командам.
 
